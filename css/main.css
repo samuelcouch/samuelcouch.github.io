@@ -10,6 +10,15 @@ h4 {
         font-size: 30pt;
 }
 
+a {
+        text-decoration:none;
+}
+
+a:hover {
+        border-bottom: 1px solid;
+        border-bottom-color: #F61067;
+}
+
 section h5 {
         color: #F61067;
         font-weight: 600;
@@ -21,6 +30,5 @@ ul {
 }
 
 .emphasis {
-        color: #2EC4B6;
-        font-weight: 400;
+        font-weight: 600;
 }
