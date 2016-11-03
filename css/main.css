@@ -20,7 +20,6 @@ a:hover {
 }
 
 section h5 {
-        margin-bottom: 1rem;
         color: #F61067;
         font-weight: 600;
         font-size: 25pt;
@@ -32,4 +31,8 @@ ul {
 
 .emphasis {
         font-weight: 600;
+}
+
+.testing {
+        margin-top: -1.5rem;
 }
