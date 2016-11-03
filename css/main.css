@@ -20,6 +20,7 @@ a:hover {
 }
 
 section h5 {
+        margin-bottom: 1rem;
         color: #F61067;
         font-weight: 600;
         font-size: 25pt;
