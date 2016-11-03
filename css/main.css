@@ -1,0 +1,26 @@
+body {
+        background-color: #FDFFFC;
+        color: #131515;
+        font-size: 12pt;
+}
+
+h4 {
+        color: #F61067;
+        font-weight: 600;
+        font-size: 30pt;
+}
+
+section h5 {
+        color: #F61067;
+        font-weight: 600;
+        font-size: 25pt;
+}
+
+ul {
+        list-style: none;
+}
+
+.emphasis {
+        color: #2EC4B6;
+        font-weight: 400;
+}
