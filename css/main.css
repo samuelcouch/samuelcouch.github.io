@@ -33,6 +33,7 @@ ul {
         font-weight: 600;
 }
 
-.testing {
-        margin-top: -1.5rem;
+.space-fix {
+        margin-top: -1.75rem;
+        margin-bottom: 1rem;
 }
